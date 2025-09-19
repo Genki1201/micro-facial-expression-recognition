@@ -1,3 +1,0 @@
-python main_HTNet.py --train False
-
-python main_HTNet.py --train True
